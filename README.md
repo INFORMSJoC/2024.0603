@@ -42,7 +42,7 @@ The goal of this repository is to demonstrate the effect of DIDP and CP for SUAL
 
 ## Building
 
-Run the .py files in the folder [code](code)
+Run the .py files in the folder [scripts](scripts)
 
 ## Results
 
@@ -50,7 +50,7 @@ Figures 3, 4, 5, 6, 7, 8 and Tables 5, 6, 7 are based on all the .csv files in t
 
 ## Replicating
 
-To replicate the results in the paper, read and run the .py files in the folder [code](code). They will run instances in the [data](data) folder.
+To replicate the results in the paper, read and run the .py files in the folder [scripts](scripts). They will run instances in the [data](data) folder.
 
 
 
